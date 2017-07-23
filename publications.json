@@ -4,7 +4,6 @@
 "generalDescription": "In diesem Bereich erhalten Sie eine Übersicht über alle Veröffentlichungen, öffentlichen Vorträge und Workshops. In-House-Schulungen, Beratungseinsätze und ähnliche Dinge werden an dieser Stelle nicht näher betrachtet.",
 
 "publications": [{
-	"year": "2015",
 	"date": "30.11.2015",
 	"name": "Prism 6 das ultimative MVVM Framework",
 	"description": "Deep Dive zum WPF MVVM Framework Prism, welches in .Net sehr häufig für Großanwendungen eingesetzt wird.",
@@ -12,7 +11,6 @@
 	"tags": ["Konferenz", "Workshop"]
 },
 {
-	"year": "2015",
 	"date": "14.10.2015",
 	"name": "TDD in der Praxis",
 	"description": "Ein Workshop bei dem Test Driven Development, sowie die Spielarten Acceptance Test Driven Development und Behavior Driven Development ausführlich erläutert werden.",
