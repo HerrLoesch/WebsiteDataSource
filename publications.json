@@ -15,7 +15,7 @@
 	"year": "2015",
 	"date": "14.10.2015",
 	"name": "TDD in der Praxis",
-	"description": "Deep Dive zum WPF MVVM Framework Prism, welches in .Net sehr häufig für Großanwendungen eingesetzt wird.",
+	"description": "Ein Workshop bei dem Test Driven Development, sowie die Spielarten Acceptance Test Driven Development und Behavior Driven Development ausführlich erläutert werden.",
 	"link": "http://adc.ms/15/agenda",
 	"tags": ["Konferenz", "Workshop"]
 }
