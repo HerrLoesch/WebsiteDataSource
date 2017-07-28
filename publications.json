@@ -1,5 +1,5 @@
 {
-	"types": ["Vortrag", "Workshop", "Videotraining", "Artikel", "Webinar", "Buch"],
+	"types": ["Vortrag", "Workshop", "Videotraining", "Artikel", "Webinar", "Buch", "Konferenz", "Usergroup"],
 	"headline": "Publikationsliste",
 	"generalDescription": "In diesem Bereich erhalten Sie eine Übersicht über alle Veröffentlichungen, öffentlichen Vorträge und Workshops. In-House-Schulungen, Beratungseinsätze und ähnliche Dinge werden an dieser Stelle nicht näher betrachtet.",
 
@@ -8,7 +8,7 @@
 			"name": "Prism 6 das ultimative MVVM Framework",
 			"description": "Deep Dive zum WPF MVVM Framework Prism, welches in .Net sehr häufig für Großanwendungen eingesetzt wird.",
 			"link": "http://www.dotnet-developer-conference.de/DevSessions/Prism-MVVM",
-			"type": "Workshop",
+			"type": ["Konferenz", "Workshop"],
 			"publisher": "Developer Media",
 			"publisherURL": "www.developer-media.de"
 		}, {
@@ -16,14 +16,14 @@
 			"name": "TDD in der Praxis",
 			"description": "Ein Workshop bei dem Test Driven Development, sowie die Spielarten Acceptance Test Driven Development und Behavior Driven Development ausführlich erläutert werden.",
 			"link": "http://adc.ms/15/agenda",
-			"type": "Workshop",
+			"type": ["Konferenz", "Workshop"],
 			"publisher": "PPEDV AG",
 			"publisherURL": "http://ppedv.de/"
 		}, {
 			"date": "03.11.2015",
 			"name": "TDD in der Praxis",
 			"description": "Ein Workshop bei dem Test Driven Development, sowie die Spielarten Acceptance Test Driven Development und Behavior Driven Development ausführlich erläutert werden.",
-			"type": "Workshop",
+			"type": ["Konferenz", "Workshop"],
 			"link": "http://www.cleancode-days.de/",			
 			"publisher": "HLMC",
 			"publisherURL": "www.hlmc.de"
