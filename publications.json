@@ -18,7 +18,7 @@
 			"link": "http://adc.ms/15/agenda",
 			"type": "Workshop",
 			"publisher": "PPEDV AG",
-			"publisherURL": "http://ppedv.de/",
+			"publisherURL": "http://ppedv.de/"
 		}, {
 			"date": "03.11.2015",
 			"name": "TDD in der Praxis",
@@ -26,7 +26,7 @@
 			"type": "Workshop",
 			"link": "http://www.cleancode-days.de/",			
 			"publisher": "HLMC",
-			"publisherURL": "www.hlmc.de",
+			"publisherURL": "www.hlmc.de"
 		}
 	]
 }
