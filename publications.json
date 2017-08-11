@@ -1228,6 +1228,39 @@
       "Publisher": "",
       "PublisherUrl": null,
       "Id": 111
+    },
+    {
+      "Date": "29.04.2016",
+      "Name": "Legacy Code refaktorisieren",
+      "Description": "Häufig hört man: „Clean Code ist wichtig“ und „TDD ist das Maß der Dinge“. Es stellt sich nur die Frage, wie man jene Prinzipien in bestehenden Code einfügen kann. Wie findet man die Stellen, an denen eine Refaktorisierung sinnvoll wäre und wie werden diese Änderungen vorgenommen, ohne die Stabilität der Software zu gefährden.",
+      "Link": "https://dotnet-leipzig.de/veranstaltungen/dnug-event-2016-legacy-code-refaktorisieren/",
+      "Type": "Vortrag",
+      "Medium": ".Net Usergroup Leipzig",
+      "Publisher": ".Net Usergroup Leipzig",
+      "PublisherUrl": "https://dotnet-leipzig.de",
+      "Id": 112
+    },
+    {
+      "Date": "28.04.2016",
+      "Name": "Refactoring leicht gemacht",
+      "Description": "Refacotring ist die Kunst unsere Codestruktur zu ändern ohne ihr Verhalten zu verändern. Schnell läuft man jedoch Gefahr zu viel zu fordern oder die Übersicht im Dschungel des eigenen Quellcodes zu verlieren. In dieser Session sehen wir uns daher diverse Helferlein an die uns dabei unterstützen zu entscheiden wo wir tatsächlich refaktorisieren sollten und lassen sie zeitgleich auf eine beispielhafte Codebasis los, um Ordnung in das Chaos zu bringen. Dafür wird der bestehende Code schrittweise in eine neue Struktur überführt die Entwurfsmuster anstelle von überbordenden Abhängigkeiten setzt.",
+      "Link": "https://www.dodnedder.de/vergangene-treffen/34-refactoring-leicht-gemacht",
+      "Type": "Vortrag",
+      "Medium": ".Net Usergroup Franken",
+      "Publisher": ".Net Usergroup Franken",
+      "PublisherUrl": "https://www.dodnedder.de",
+      "Id": 113
+    },
+    {
+      "Date": "27.04.2011",
+      "Name": "Was ist eigentlich eine Unit?",
+      "Description": "Unit Tests gelten als das Mittel der Wahl wenn es darum geht die Erstellung qualitativ hochwertiger Software zu unterstützten. Je wichtiger diese Tests jedoch sind, desto wichtiger ist auch die Betrachtung was sich eigentlich dahinter verbirgt. Was genau ist eine Unit, wie beeinflusst unsere Definition des Begriffs das erzielte Ergebnis und wo ordnen sich diese Tests ein wenn es um bestimmte Vorgehen wie TDD oder BDD geht?",
+      "Link": "http://www.dotnet-fn.de/event_list/",
+      "Type": "Vortrag",
+      "Medium": ".NET User Group Friedrichshafen",
+      "Publisher": ".NET User Group Friedrichshafen",
+      "PublisherUrl": "http://www.dotnet-fn.de",
+      "Id": 114
     }
   ]
 }
