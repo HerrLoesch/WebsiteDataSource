@@ -1252,7 +1252,7 @@
       "Id": 113
     },
     {
-      "Date": "27.04.2011",
+      "Date": "27.04.2016",
       "Name": "Was ist eigentlich eine Unit?",
       "Description": "Unit Tests gelten als das Mittel der Wahl wenn es darum geht die Erstellung qualitativ hochwertiger Software zu unterstützten. Je wichtiger diese Tests jedoch sind, desto wichtiger ist auch die Betrachtung was sich eigentlich dahinter verbirgt. Was genau ist eine Unit, wie beeinflusst unsere Definition des Begriffs das erzielte Ergebnis und wo ordnen sich diese Tests ein wenn es um bestimmte Vorgehen wie TDD oder BDD geht?",
       "Link": "http://www.dotnet-fn.de/event_list/",
@@ -1263,7 +1263,7 @@
       "Id": 114
     },
     {
-      "Date": "10.11.2011",
+      "Date": "10.11.2016",
       "Name": "ReSharper Deep Dive",
       "Description": "Zum Einstieg wird uns Hendrik das Visual Studio Plugin ReSharper vorstellen. In einem anschließenden Coding Dojo können wir gemeinsam die gelernten Tastenkürzel üben.",
       "Link": "http://www.dd-dotnet.de/treffen/2016/11/10/resharper-deep-dive.html",
