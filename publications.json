@@ -1261,6 +1261,17 @@
       "Publisher": ".NET User Group Friedrichshafen",
       "PublisherUrl": "http://www.dotnet-fn.de",
       "Id": 114
+    },
+    {
+      "Date": "10.11.2011",
+      "Name": "ReSharper Deep Dive",
+      "Description": "Zum Einstieg wird uns Hendrik das Visual Studio Plugin ReSharper vorstellen. In einem anschließenden Coding Dojo können wir gemeinsam die gelernten Tastenkürzel üben.",
+      "Link": "http://www.dd-dotnet.de/treffen/2016/11/10/resharper-deep-dive.html",
+      "Type": "Workshop",
+      "Medium": ".Net Usergroup Dresden",
+      "Publisher": ".Net Usergroup Dresden",
+      "PublisherUrl": "www.dd-dotnet.de",
+      "Id": 115
     }
   ]
 }
