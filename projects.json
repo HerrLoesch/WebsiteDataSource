@@ -1,0 +1,331 @@
+{
+   "Projects": [
+      {
+         "Id": 0,
+         "Abstract": "Restrukturierung einer Großanwendung mit dem Ziel standardisierte Infrastrukturkomponenten heraus zu lösen und allen Entwicklungsteams zur Verfügung zu stellen",
+         "Position": "Senior Consultant - Enterprise Architect",
+         "From": "06/17",
+         "To": "",
+         "UntilToday": true,
+         "Description": "In Absprache mit dem Kunden werden einzelne Bestandteile aus einer 2,5 Millionen LoC großen Software extrahiert, angepasst und als Infrastrukturkomponenten allen beteiligten Teams zur Verfügung gestellt. Dabei ist neben der Entwicklung ein Lieferprozess und Dokumentationprozess zu definieren.",
+         "Tasks": [
+            "Extrahieren und bewerten von Softwarebestandteilen",
+            "Kommunikation mit allen Verantwortlichen",
+            "Erstellung von Konzepten und Dokumentation",
+            "Anleitung verschiedener Fachkräfte aus der Entwicklung, dem Test und der Anforderungsermittlung"
+         ],
+         "Tools": [
+            "C#/.NET",
+            "WPF",
+            "NDepend",
+            "Structure101 Studio",
+            "Team Foundation Server"
+         ],
+         "Sector": "Optische Sensortechnik"
+      },
+      {
+         "Id": 1,
+         "Abstract": "Architekturbewertung und zielgerichtetes Refactoring einer Software zur Messung der Sehstärke",
+         "Position": "Senior Consultant - Softwarearchitekt und Projektleiter",
+         "From": "09/16",
+         "To": "",
+         "UntilToday": true,
+         "Description": "Zu Beginn des Projektes wurde eine Architekturbewertung des bestehenden Systems erstellt. Basierend darauf wurden Schwachstellen durch umfassende Refaktorierung und Restrukturierung umgestellt um Fehler zu verringern und das System wartbarer zu gestalten.",
+         "Tasks": [
+            "Architekturbewertung einer ASP.Net MVC Applikation",
+            "Refactoring und Aufbau einer Testautomatisierungsinfrastruktur",
+            "Projektleitung mit Weisungsbefugnis"
+         ],
+         "Tools": [
+            "C#/.NET",
+            "ASP.NET MVC",
+            "NDepend",
+            "Structure101 Studio",
+            "Team Foundation Server"
+         ],
+         "Sector": "Augenoptik"
+      },
+      {
+         "Id": 2,
+         "Abstract": "Umsetzung eines Algorithmus zur Berechnung von Kraftwerksauslastungen und Lasterverteilungen innerhalb des deutschen Stromnetzes",
+         "Position": "Senior Consultant - Softwarearchitekt und Entwickler",
+         "From": "07/16",
+         "To": "",
+         "UntilToday": true,
+         "Description": "Es wurde gemeinsam mit dem Kunden ein Algorithmus entwickelt, der der Lastverteilung innerhalb des deutschen Stromnetzes dient. Dieser Algorithmus wurde prototypisch als Excel-Plugin bereit gestellt um ihn ausführlich testen können, ist architektonisch aber so ausgelegt, dass er auch in anderen Umgebungen verwendet werden kann.",
+         "Tasks": [
+            "Design und Entwicklung eines Excel Plugins auf Basis von VSTO",
+            "Testgetriebene Umsetzung eines sehr anspruchsvollen Algorithmus",
+            "Erstellung einer losegekoppelten Architektur die auf dem Desktop aber auch im Web verwendet werden kann"
+         ],
+         "Tools": [
+            "C#/.NET",
+            "VSTO",
+            "Team Foundation Server"
+         ],
+         "Sector": "Übertragungsnetzbetreiber"
+      },
+      {
+         "Id": 3,
+         "Abstract": "Design und Anbindung von Weboberflächen an eine Logikschicht auf Basis eines Pflichtenheftes",
+         "Position": "Senior Consultant - Softwareentwickler",
+         "From": "02/16",
+         "To": "07/16",
+         "UntilToday": false,
+         "Description": "Auf Basis eines Pflichtenheftes wurden Benutzeroberflächen einer Webapplikation aufgebaut und an ein temporäres Back-End angebunden. Darüber hinaus wurden die Oberflächen um eine Druckfunktion erweitert mit welcher der Inhalt gedruckt werden kann.",
+         "Tasks": [
+            "Design und Entwicklung von Webbasierten Eingabemasken",
+            "Aufbau einer temporären Datenschicht die Beispieldaten liefert",
+            "Definition von Schnittstellen zur Anbindung der Oberflächen an das tatsächliche Back-End"
+         ],
+         "Tools": [
+            "C#/.NET",
+            "ASP.NET MVC 5",
+            "Entity Framework",
+            "Kendo UI",
+            "JQuery",
+            "Bootstrap",
+            "Team Foundation Server"
+         ],
+         "Sector": "Gesundheitswesen"
+      },
+      {
+         "Id": 4,
+         "Abstract": "Schaffung einer App Infrastruktur für Stadt Dresden, um Informationen zur Stadt sowie Opengovernment und E-Commerce Dienste bereitzustellen",
+         "Position": "Senior Consultant - Softwarearchitekt",
+         "From": "11/15",
+         "To": "02/16",
+         "UntilToday": false,
+         "Description": "Für die Dresden Information GmbH wird eine hybride App für iOS und Android umgesetzt, welche diverse Dienste der offiziellen Webplattform, aber auch von diversen Kooperationspartnern mobil anbietet. Hierzu werden neben Hotelbuchungen und Sightseeingangeboten auch Dienste im Themenbereich des Opengovernment eingebunden. Dazu zählen beispielsweise Petitionen, Antragsstellung und Dokumenteinsichten.",
+         "Tasks": [
+            "Coaching beteiligter Entwickler",
+            "Anforderungsmanagement und Projektleitung",
+            "Umsetzung wichtiger Kernfeatures",
+            "Test (-automatisierung) für Android und iOS"
+         ],
+         "Tools": [
+            "Visual Studio",
+            "Ionic",
+            "Cordova",
+            "AngularJS"
+         ],
+         "Sector": "Stadtverwaltung"
+      },
+      {
+         "Id": 5,
+         "Abstract": "Aufbau einer softwaregestützten Lösung, um Geflüchtete über das Asylverfahren, die Gesetze und Lebensweise in Deutschland zu informieren",
+         "Position": "Senior Consultant - Softwarearchitekt",
+         "From": "04/15",
+         "To": "12/16",
+         "UntilToday": false,
+         "Description": "Im Rahmen des öffentlichen Engagements der Saxonia Systems AG wurde mit Flüchtlingen das Konzept einer App erstellt, die alle für sie wichtigen Informationen zu Dresden enthält. Dazu gehört neben dem Asylverfahren auch die Adressen von Anlaufstellen, Beschreibungen von üblichen Verhaltensweisen und ähnlichem. Dafür wurde, neben einer App für Windows Phone, iOS und Android, ein Content Management auf Basis von Microsoft Azure umgesetzt, mit dem die Inhalte der App von Freiwilligen gepflegt werden können.",
+         "Tasks": [
+            "Technische Projektleitung und Koordination von Projektpartnern",
+            "Anforderungserfassung und Verwalten",
+            "Erstellung der eigentlichen Appstruktur, die in mehrere Sprachen übersetzt wird und sich mit Daten aus einer Clouddatenbank speist"
+         ],
+         "Tools": [
+            "Microsoft Azure",
+            "C#",
+            "SQL",
+            "Visual Studio",
+            "Ionic",
+            "Cordova",
+            "AngularJS"
+         ],
+         "Sector": "Geflüchtetenhilfe"
+      },
+      {
+         "Id": 6,
+         "Abstract": "Aufbau und Pflege eines Showcase-Szenarios für die Anbindung verschiedener App-Plattformen an SAP Backends über das SAP Mobile SDK und die SAP Mobile Plattform",
+         "Position": "Senior Consultant - Softwarearchitekt",
+         "From": "06/13",
+         "To": "03/17",
+         "UntilToday": false,
+         "Description": "Im Rahmen eines Showcases der Saxonia System wurde eine App zum Ablesen von Zählerständen für Strom und Wasser entwickelt. Diese steht als Hybridapp und native Variante zur Verfügung. Sie besitzt eine Anbindung an ein SAP Back-End, welches teilweise mit der SAP Mobile Plattform und dem SAP Mobile SDK realisiert wurde.",
+         "Tasks": [
+            "Technische Projektleitung",
+            "Anforderungserfassung und Verwaltung",
+            "Umsetzung einer App für Android und iOS mit Hilfe von Ionic",
+            "Umsetzung einer App für die Windows 8 Platform auf Basis von Html & Javascript",
+            "Umsetzung einer App für die Windows 8 Plattform auf Basis der nativen WinRT (Update der WinRT Variante auf Windows 10 ist aktuell in Bearbeitung)"
+         ],
+         "Tools": [
+            "C#",
+            "WinRT",
+            "Visual Studio",
+            "Cordova",
+            "AngularJS",
+            "Ionic"
+         ],
+         "Sector": "Showcase"
+      },
+      {
+         "Id": 7,
+         "Abstract": "Schaffung einer Software für die Verwaltung von Großküchen",
+         "Position": "Senior Consultant - Softwareentwickler",
+         "From": "08/14",
+         "To": "09/15",
+         "UntilToday": false,
+         "Description": "Ziel des Projekts war die Neuentwicklung eines Softwaremoduls für eine bestehende Verwaltungssoftware für Großküchen. Mit diesem Modul sollte eine Projektumgebung für zukünftige Entwicklungsprojekte des Kunden definiert werden. Die Aufgabe bestand somit in der Einführung neuer Technologien und agiler Arbeitsweise, sowie der eigentlichen Umsetzung mit den Entwicklern des Kunden.",
+         "Tasks": [
+            "Einführung agiler Arbeitsweisen wie Testautomatisierung, SCRUM u.ä.",
+            "Entwicklung von UI Masken mit JQuery, KendoUI und ASP.NET MVC",
+            "Anbindung der UI Masken an ein Back-End durch die Nutzung von IoC",
+            "Umsetzung der Geschäftsprozesse innerhalb verschiedener Middleware Komponenten",
+            "Aufgrund gelebten Global Code Ownership wurde gelegentlich auch eine Anbindung an die Datenbank mit Entity Framework realisiert"
+         ],
+         "Tools": [
+            "C#/.NET",
+            "ASP.NET MVC 5",
+            "NUnit",
+            "Entity Framework",
+            "Kendo UI",
+            "JQuery",
+            "Team Foundation Server 2012"
+         ],
+         "Sector": "Einkauf"
+      },
+      {
+         "Id": 8,
+         "Abstract": "Schaffung eines Applikationsframeworks zur konzernweiten Vereinheitlichung von Softwareprodukten auf ophthalmologischen Geräten",
+         "Position": "Senior Consultant - Softwareentwickler",
+         "From": "01/11",
+         "To": "02/14",
+         "UntilToday": false,
+         "Description": "Der Kunde wünschte eine Vereinheitlichte Architektur und Rahmenapplikation für alle zukünftigen medizinischen Geräte. Dazu wurde eine Allgemeingültige Architektur aufgestellt und umgesetzt die übliche Standardanforderungen wie Logging, Datenverwaltung, die notwendige GUI und anderes enthält.",
+         "Tasks": [
+            "Erarbeitung einer allgemeingültigen Architektur",
+            "Umsetzung von Infrastrukturkomponenten zum Speichern von Betriebsstatus, Benutzereinstellungen und Errorhandling",
+            "Anbindung der Applikation an eine Datenbank über NHibernate",
+            "Erstellung von User Interfaces auf Basis von WPF"
+         ],
+         "Tools": [
+            "C#/.NET",
+            ".NET Framework 4.0",
+            "Team Foundation Server 2010",
+            "MS Test",
+            "Enterprise Architect",
+            "WPF",
+            "Prism"
+         ],
+         "Sector": "Medizintechnik"
+      },
+      {
+         "Id": 9,
+         "Abstract": "Unterstützung bei der Schaffung eines Softwaremoduls zum Archivieren von Daten in einem Remote-Server auf Basis von DICOM",
+         "Position": "Consultant - Softwareentwickler",
+         "From": "10/10",
+         "To": "04/11",
+         "UntilToday": false,
+         "Description": "Der Kunde benötigte eine Lösung zum Archivieren von medizinischen Daten. Dazu wurde eine Softwarelayer eingeführt der das interne Datenmodell der Applikationen in ein DICOM konformes wandelt und an einen entsprechenden Server überträgt.",
+         "Tasks": [
+            "Erarbeitung einer Mappingstrategie zwischen verschiedenen Datenmodellen",
+            "Implementierung der entsprechenden Funktionalität",
+            "Anbindung eines Remote-Servers"
+         ],
+         "Tools": [
+            "C#/.NET",
+            ".NET Framework 3.5",
+            "Team Foundation Server 2008",
+            "MS Test",
+            "Enterprise Architect"
+         ],
+         "Sector": "Medizintechnik"
+      },
+      {
+         "Id": 10,
+         "Abstract": "Kundenindividuelle Anpassungen an einem Fertigungsmanagementsystem auf Basis von Microsoft .NET",
+         "Position": "Consultant - Softwareentwickler",
+         "From": "07/09",
+         "To": "08/10",
+         "UntilToday": false,
+         "Description": "Der Kunde setzte ein Standard-Manufacturing Execution System (MES) in seiner Produktion ein. MES dienen der Qualitäts- und Prozessdatenerfassung, sowie Equipmentsteuerung innerhalb von Produktionsanlagen. Dieses System wurde in bestimmten Funktionsbereichen an die individuellen Anforderungen des Kunden angepasst.",
+         "Tasks": [
+            "Erweiterung des Manufacturing Execution Systems der Turnkey Produktionslinien",
+            "Implementierung von Individualanforderungen",
+            "Bereitstellung von Datenauswertungsmechanismen",
+            "Erstellung von Berichten für Personalplanung, Qualitätssicherung, Produktionsübersicht und Management",
+            "Erstellung von Schulungsmaterialien und Training der Nutzer in der Benutzung der Software"
+         ],
+         "Tools": [
+            "C#/.NET",
+            ".NET Framework 2.0",
+            "Oracle 10.2",
+            "HP Quality Center",
+            "Visual Source Safe",
+            "VAC NT",
+            "Steam Tee-Chart"
+         ],
+         "Sector": "Solarindustrie"
+      },
+      {
+         "Id": 11,
+         "Abstract": "Kundenindividuelle Anpassungen an einem Fertigungsmanagementsystem auf Basis von Microsoft .NET",
+         "Position": "Junior Consultant - Softwareentwickler",
+         "From": "10/08",
+         "To": "06/09",
+         "UntilToday": false,
+         "Description": "Der Kunde setzte ein Standard-Manufacturing Execution System (MES) in seiner Produktion ein. MES dienen der Qualitäts- und Prozessdatenerfassung, sowie Equipmentsteuerung innerhalb von Produktionsanlagen. Dieses System wurde in bestimmten Funktionsbereichen an die individuellen Anforderungen des Kunden angepasst.",
+         "Tasks": [
+            "Implementierung eines auf Touchscreens basierenden User Interfaces für die Qualitätssicherung",
+            "Verwaltung von manuell eingegebenen und automatisch ermittelten Qualitätsdaten mit darauf basierender abschließender Klassifikation des Endprodukts",
+            "Erstellung von Prozess- und Qualitätsauswertungen über den gesamten Produktionsprozess"
+         ],
+         "Tools": [
+            "C#/.NET",
+            ".NET Framework 3.5",
+            "Expression Blend",
+            "Oracle 10",
+            "HP QualityCenter",
+            "Team Foundation Server",
+            "VAC NT",
+            "Crystal Reports"
+         ],
+         "Sector": "Solarindustrie"
+      },
+      {
+         "Id": 12,
+         "Abstract": "Thema: \"Entwurf und Entwicklung einer Testapplikation für Bussysteme im Automobilbau\"",
+         "Position": "Diplomand",
+         "From": "03/08",
+         "To": "09/08",
+         "UntilToday": false,
+         "Description": "Zielstellung der Arbeit war die Bereitstellung einer Applikation zum Testen verschiedener Bussysteme wie CAN oder FlexRay, die sowohl auf PC als auch auf PDA lauffähig ist und über Ethernet, USB oder Bluetooth an die entsprechende Hardware angebunden wird.  Dazu wurde eine Plugin gestützte Systemstruktur genutzt, die sich verschiedener Entwurfsmusterbedient, um eine möglichst große Erweiterbarkeit zu gewährleisten.",
+         "Tasks": [],
+         "Tools": [],
+         "Sector": "Automobilindustrie"
+      },
+      {
+         "Id": 13,
+         "Abstract": "Programmierung  von  Kalibrierungssystemen  im  Bereich  Füge-  und  Randschichttechnologien",
+         "Position": "Junior Consultant - Softwareentwickler",
+         "From": "05/07",
+         "To": "02/08",
+         "UntilToday": false,
+         "Description": "Übernahme verschiedener Programmieraufgaben im Rahmen einer Tätigkeit als wissenschaftliche Hilfskraft",
+         "Tasks": [
+            "Konzeption und Implementierung von Sensortechnik für Laserschweißköpfe",
+            "Entwicklung (prototypisch) eines Programms zur Qualitätssicherung beim Laserschweißen"
+         ],
+         "Tools": [],
+         "Sector": "Werkstofftechnik"
+      },
+      {
+         "Id": 14,
+         "Abstract": "Dokumentation  und  Weiterentwicklung  eines  Datenanalyseprogramms  auf Basis datenflussgesteuerter Systeme",
+         "Position": "Praktikant",
+         "From": "09/06",
+         "To": "02/07",
+         "UntilToday": false,
+         "Description": "OpenDX ist ein freies Datenanalysewerkzeug. Ziel der Tätigkeit waren die Erstellung von Tutorien zur Verwendung von OpenDX und die Erweiterung der Programmfunktionalität",
+         "Tasks": [
+            "Dokumentation von Programmfunktionalitäten",
+            "Implementierung von zusützlichen Funktionalitäten am Open Source Code",
+            "Präsentation der Arbeitsergebnisse in Englisch"
+         ],
+         "Tools": [],
+         "Sector": "Visualisierung"
+      }
+   ]
+}

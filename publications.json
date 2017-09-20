@@ -25,9 +25,9 @@
       "Description": "Abhängigkeiten sind das Salz in der Softwareentwicklungssuppe. Ohne geht es einfach nicht, zu viel macht das Gesamtwerk aber ungenießbar. Als Mittel gegen diese Problematik wird häufig das Clean Code-Development gesehen, welches zu weiten Teilen auf den Arbeiten von R. C. Martin basiert. Doch was genau sind die Probleme mit Abhängigkeiten und wie zielt Clean Code-Development darauf ab?",
       "Link": "https://www.informatik-aktuell.de/entwicklung/methoden/clean-code-vs-abhaengigkeiten.html",
       "Type": "Artikel",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": "Informatik Aktuell",
+      "Publisher": "Alkmene Verlags- und Mediengesellschaft mbH",
+      "PublisherUrl": "https://www.informatik-aktuell.de/ueber-uns.html",
       "Id": 2
     },
     {
@@ -37,8 +37,8 @@
       "Link": "https://www.video2brain.com/de/videotraining/ionic-2-hybride-apps-entwickeln/inhalte",
       "Type": "Videotraining",
       "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Publisher": "Video2Brain",
+      "PublisherUrl": "https://www.video2brain.com",
       "Id": 3
     },
     {
@@ -47,9 +47,9 @@
       "Description": "Bevor man die Struktur einer Software verändert, sollte man sie verstehen. Das Structure101 Studio bietet hierbei eine Hilfe für Architekten, indem es die Abhängigkeiten innerhalb eines Systems auf vielfältige Weise visualisiert und beim Aufbrechen jener Abhängigkeiten unterstützt.",
       "Link": "http://www.dotnetpro.de/planung/tools/roentgenblick-architekten-1221757.html",
       "Type": "Artikel",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": "Dotnetpro",
+      "Publisher": "Neue Mediengesellschaft Ulm mbH",
+      "PublisherUrl": "http://www.nmg.de/",
       "Id": 4
     },
     {
@@ -791,13 +791,13 @@
     },
     {
       "Date": "01.03.2014",
-      "Name": "Haben Sie schon Reagiert? - Wie kann man WPF Applikationen mit Reactive UI einfacher entwickeln",
-      "Description": "Dotnetpro: #####",
-      "Link": "#####",
+      "Name": "Haben Sie schon Reagiert?",
+      "Description": "Unter WPF alle Akteure mit aktuellen Informationen zu versorgen kann eine aufwendige Sache sein. Es wird Zeit, Abhilfe zu schaffen. Und das geht einfach. Es kommt nur auf die richtige Bibliothek an. In diesem Artikel widmen wir uns deshalb der Reactive UI mit welcher MVVM auch im WPF Umfeld reaktiv gestaltet werden kann.",
+      "Link": "http://www.dotnetpro.de/update/frameworks/reagiert-1126810.html",
       "Type": "Artikel",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": "Dotnetpro",
+      "Publisher": "Neue Mediengesellschaft Ulm mbH ",
+      "PublisherUrl": "www.dotnetpro.de",
       "Id": 72
     },
     {
