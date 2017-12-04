@@ -1156,7 +1156,7 @@
       "Date": "01.10.2011",
       "Name": "Softwareentwicklung mit Microsoft-Produkten",
       "Description": "bis Feburar 2012; Projektseminar an der HTW Dresden zu .NET, Windows Phone, Azure u. v. m.",
-      "Link": "#####",
+      "Link": "",
       "Type": "Workshop",
       "Medium": "",
       "Publisher": "",
@@ -1272,6 +1272,50 @@
       "Publisher": ".Net Usergroup Dresden",
       "PublisherUrl": "www.dd-dotnet.de",
       "Id": 115
+    },
+    {
+      "Date": "29.11.2017",
+      "Name": "Ich glaub es hat Schnupfen – Der Healthcheck für Softwareprojekte",
+      "Description": "Innerhalb eines Softwareprojektes geht es nicht vorrangig um Quellcode. Dieser ist meist eher das End- oder Zwischenprodukt verschiedenster externer Einflüsse. Zu solchen Einflüssen zählen natürlich die Anforderungen  und die Zusammensetzung des Projektteams, aber beispielsweise auch der Zeitrahmen innerhalb dem eine Leistung zu erbringen ist, die fachliche Domäne, sowie das Alter des bestehenden Systems. Im Rahmen dieses Vortrags sollen die Herausforderungen bei der Bewertung von Softwaresystemen skizziert und ein Vorgehen erläutert werden, mit dem es möglich ist Risiken innerhalb der Code Basis, aber auch der Projektzusammensetzung zu erkennen. Denn nur wenn man konkrete Risiken kennt, kann man auch Maßnahmen einleiten um jenen effektiv zu begegnen.",
+      "Link": "",
+      "Type": "Vortrag",
+      "Medium": ".NET Developer Conference",
+      "Publisher": "",
+      "PublisherUrl": "http://www.dotnet-developer-conference.de",
+      "Id": 116
+    },
+    {
+      "Date": "30.11.2017",
+      "Name": "Test Driven WPF",
+      "Description": "WPF erlaubt uns, dank Model View ViewModel Pattern, lose gekoppelte Applikationen zu erstellen die einfacher getestet werden können. In diesem Workshop bauen wir eine WPF Applikation testgetrieben und betrachten dabei wie wir übliche Geschäftsfälle testgetrieben mit WPF umsetzen können. Darüber hinaus bekommen wir einen tieferen Einblick in das Prism Framework, welches beispielhaft für andere MVVM Frameworks genutzt werden soll, um zu sehen wie wir auch die Infrastruktur unserer WPF Anwendung testgetrieben realisieren können. Der Fokus der Session liegt hierbei auf dem Praxiseinsatz und weniger auf den dahinterliegenden Theorien.",
+      "Link": "",
+      "Type": "Workshop",
+      "Medium": ".NET Developer Conference",
+      "Publisher": "",
+      "PublisherUrl": "http://www.dotnet-developer-conference.de",
+      "Id": 117
+    },
+    {
+      "Date": "13.11.2017",
+      "Name": "Darwins neue Kleider",
+      "Description": "Dieser Artikel beschreibt die Evolution von Software und in diesem Zusammenhang die Wissenschaft der Softwareevolution.",
+      "Link": "https://www.dotnetpro.de/planung/alm/darwins-neue-kleider-1430998.html",
+      "Type": "Artikel",
+      "Medium": "Dotnet Pro",
+      "Publisher": "",
+      "PublisherUrl": "https://www.dotnetpro.de/",
+      "Id": 118
+    },
+    {
+      "Date": "13.11.2017",
+      "Name": "Auf den Zahn gefühlt",
+      "Description": "Dieser Artikel beschreibt ein Verfahren mit dem Software analysiert werden kann um ein Überblick über ihren tatsächlichen Ist-Zustand zu erhalten.",
+      "Link": "https://www.dotnetpro.de/planung/alm/zahn-gefuehlt-1431072.html",
+      "Type": "Artikel",
+      "Medium": "Dotnet Pro",
+      "Publisher": "",
+      "PublisherUrl": "https://www.dotnetpro.de/",
+      "Id": 118
     }
   ]
 }
