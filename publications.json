@@ -287,7 +287,6 @@
       "Date": "30.11.2015",
       "Name": "Prism 6 das ultimative MVVM Framework",
       "Description": "DDC: Deep Dive zum WPF MVVM Framework Prism, welches in .Net sehr häufig für Großanwendungen eingesetzt wird.",
-      "Link": "#####",
       "Type": "Vortrag",
       "Medium": "",
       "Publisher": "",
@@ -320,7 +319,6 @@
       "Date": "03.11.2015",
       "Name": "TDD in der Praxis",
       "Description": "ADC: Ein Workshop bei dem Test Driven Development, sowie die Spielarten Acceptance Test Driven Development und Behavior Driven Development ausführlich erläutert werden.",
-      "Link": "#####",
       "Type": "Workshop",
       "Medium": "",
       "Publisher": "",
@@ -352,10 +350,9 @@
     {
       "Date": "12.10.2015",
       "Name": "Clean Code mit VS 2015",
-      "Description": "ADC: #####",
       "Link": "http://adc.ms/15/agenda",
       "Type": "Vortrag",
-      "Medium": "",
+      "Medium": "Advanced Developer Conference",
       "Publisher": "",
       "PublisherUrl": null,
       "Id": 32
@@ -374,10 +371,9 @@
     {
       "Date": "29.09.2015",
       "Name": "Softwareevolution",
-      "Description": "Basta: #####",
       "Link": "https://basta.net/2015/sessions/softwareevolution-bestehenden-code-zweifelsfrei-refaktorisieren",
       "Type": "Vortrag",
-      "Medium": "",
+      "Medium": "Basta",
       "Publisher": "",
       "PublisherUrl": null,
       "Id": 34
@@ -429,10 +425,9 @@
     {
       "Date": "17.06.2015",
       "Name": "Clean dank Visual Studio",
-      "Description": "Developer Week: #####",
       "Link": "http://www.developer-week.de/Programm/Veranstaltung/%28event%29/18446",
       "Type": "Vortrag",
-      "Medium": "",
+      "Medium": "Developer Week",
       "Publisher": "",
       "PublisherUrl": null,
       "Id": 39
@@ -496,7 +491,6 @@
       "Date": "18.03.2015",
       "Name": "Universal Apps mit SAP Back-End",
       "Description": "Durchblick-im-Dschungel-der-SAP-Anbindung-von-mobilen-Geschäftsanwendungen",
-      "Link": "#####",
       "Type": "Usergroup",
       "Medium": "",
       "Publisher": "",
@@ -528,10 +522,8 @@
     {
       "Date": "11.11.2014",
       "Name": "Was ist eigentlich eine Unit?",
-      "Description": "Clean Code Days: #####",
-      "Link": "#####",
       "Type": "Vortrag",
-      "Medium": "",
+      "Medium": "Clean Code Days",
       "Publisher": "",
       "PublisherUrl": null,
       "Id": 48
@@ -539,10 +531,9 @@
     {
       "Date": "11.11.2014",
       "Name": "Lose gekoppelt wie nie: DI vs. IoC",
-      "Description": "Clean Code Days: \"Dependency Injection, Service Locator, Inversion of Control, Dependency Inversion Principle, … Viele Begriffe die irgendwie das Gleiche zu sagen scheinen und sich dann doch wieder unterscheiden. Sicher ist nur, dass es sich um lose Kopplung handelt. Dass wir dank dieser ominösen Begriffe wartbare Software erstellen können, die leichter zu erweitern ist und sich darüber hinaus auch noch gut testen lässt.\nDer Vortrag greift die zuvor genannten Begriffe auf und erläutert ihre Zusammenhänge. Dabei ist das Ziel mit altbekannten Vorurteilen aufzuräumen und bei der Entscheidung zu helfen wo Softwarebestandteile wirklich entkoppelt werden sollten und welche Antipatterns sich beim Praxiseinsatz ergeben können. Dabei sehen wir diverse Beispiele des Einsatzes der SOLID Prinzipien und warum Dependency Injection allein eben nicht zu besserer Software führt.\"",
-      "Link": "#####",
-      "Type": "Vortrag",
-      "Medium": "",
+      "Description": "Dependency Injection, Service Locator, Inversion of Control, Dependency Inversion Principle, … Viele Begriffe die irgendwie das Gleiche zu sagen scheinen und sich dann doch wieder unterscheiden. Sicher ist nur, dass es sich um lose Kopplung handelt. Dass wir dank dieser ominösen Begriffe wartbare Software erstellen können, die leichter zu erweitern ist und sich darüber hinaus auch noch gut testen lässt.\nDer Vortrag greift die zuvor genannten Begriffe auf und erläutert ihre Zusammenhänge. Dabei ist das Ziel mit altbekannten Vorurteilen aufzuräumen und bei der Entscheidung zu helfen wo Softwarebestandteile wirklich entkoppelt werden sollten und welche Antipatterns sich beim Praxiseinsatz ergeben können. Dabei sehen wir diverse Beispiele des Einsatzes der SOLID Prinzipien und warum Dependency Injection allein eben nicht zu besserer Software führt.",
+       "Type": "Vortrag",
+      "Medium": "Clean Code Days",
       "Publisher": "",
       "PublisherUrl": null,
       "Id": 49
@@ -550,10 +541,8 @@
     {
       "Date": "10.11.2014",
       "Name": "Test Driven Development in der Praxis",
-      "Description": "Clean Code Days: #####",
-      "Link": "#####",
       "Type": "Workshop",
-      "Medium": "",
+      "Medium": "Clean Code Days",
       "Publisher": "",
       "PublisherUrl": null,
       "Id": 50
@@ -572,10 +561,8 @@
     {
       "Date": "01.10.2014",
       "Name": "Abhängigkeiten aufgedröselt - Code Analyse mit und Qualitätsmetriken von Ndepend",
-      "Description": "Windows Developer: #####",
-      "Link": "#####",
       "Type": "Artikel",
-      "Medium": "",
+      "Medium": "Windows Developer",
       "Publisher": "",
       "PublisherUrl": null,
       "Id": 52
@@ -594,10 +581,8 @@
     {
       "Date": "24.09.2014",
       "Name": "SAP wird mobil",
-      "Description": "Basta: #####",
-      "Link": "#####",
       "Type": "Vortrag",
-      "Medium": "",
+      "Medium": "Basta",
       "Publisher": "",
       "PublisherUrl": null,
       "Id": 54
@@ -616,10 +601,8 @@
     {
       "Date": "03.09.2014",
       "Name": "SAP wird mobil",
-      "Description": "Mobile Tech Con: #####",
-      "Link": "#####",
       "Type": "Vortrag",
-      "Medium": "",
+      "Medium": "Mobile Tech Con",
       "Publisher": "",
       "PublisherUrl": null,
       "Id": 56
@@ -637,9 +620,8 @@
     },
     {
       "Date": "02.09.2014",
-      "Name": "#####",
+      "Name": "Dependency Injection vs. Inversion of Control",
       "Description": "Softwerkskammer Magdeburg",
-      "Link": "#####",
       "Type": "Usergroup",
       "Medium": "",
       "Publisher": "",
@@ -650,7 +632,6 @@
       "Date": "01.09.2014",
       "Name": "Entwicklung von Hybrid-Apps mit dem Microsoft-Toolstack",
       "Description": "bis Feburar 2015; Projektseminar an der HTW Dresden",
-      "Link": "#####",
       "Type": "Workshop",
       "Medium": "",
       "Publisher": "",
@@ -715,10 +696,8 @@
     {
       "Date": "17.07.2014",
       "Name": "Test Driven Development in der Praxis",
-      "Description": "Developer Week: #####",
-      "Link": "#####",
       "Type": "Workshop",
-      "Medium": "",
+      "Medium": "Developer Week",
       "Publisher": "",
       "PublisherUrl": null,
       "Id": 65
@@ -726,10 +705,8 @@
     {
       "Date": "16.07.2014",
       "Name": "ATDD – Der Weg zur lebenden Dokumentation?",
-      "Description": "Developer Week: #####",
-      "Link": "#####",
       "Type": "Vortrag",
-      "Medium": "",
+      "Medium": "Developer Week",
       "Publisher": "",
       "PublisherUrl": null,
       "Id": 66
@@ -737,10 +714,8 @@
     {
       "Date": "10.05.2014",
       "Name": "MS Test der Missverstandene Stiefbruder",
-      "Description": "Dotnet Day Franken: #####",
-      "Link": "#####",
       "Type": "Vortrag",
-      "Medium": "",
+      "Medium": "Dotnet Day Franken",
       "Publisher": "",
       "PublisherUrl": null,
       "Id": 67
@@ -770,22 +745,18 @@
     {
       "Date": "18.03.2014",
       "Name": "Mehr als nur Unit Tests",
-      "Description": "Microsoft Testing Info Day in Hamburg: ######",
-      "Link": "#####",
       "Type": "Vortrag",
-      "Medium": "",
-      "Publisher": "",
+      "Medium": "Microsoft Testing Info Day in Hamburg",
+      "Publisher": "Microsoft",
       "PublisherUrl": null,
       "Id": 70
     },
     {
       "Date": "11.03.2014",
       "Name": "Mehr als nur Unit Tests",
-      "Description": "Microsoft Testing Info Day in Unterschleißheim: ######",
-      "Link": "#####",
       "Type": "Vortrag",
-      "Medium": "",
-      "Publisher": "",
+      "Medium": "Microsoft Testing Info Day in Unterschleißheim",
+      "Publisher": "Microsoft",
       "PublisherUrl": null,
       "Id": 71
     },
@@ -814,10 +785,9 @@
     {
       "Date": "25.01.2014",
       "Name": "(A)TDD mit MS Test und Specflow",
-      "Description": "Agile Saxony: #####",
       "Link": "https://www.xing.com/events/agile-saxony-acceptance-test-driven-development-1346510",
       "Type": "Usergroup",
-      "Medium": "",
+      "Medium": "Agile Saxony",
       "Publisher": "",
       "PublisherUrl": null,
       "Id": 74
@@ -836,10 +806,8 @@
     {
       "Date": "28.11.2013",
       "Name": "Acceptance Test Driven Development mit Microsoft Tools in der Praxis",
-      "Description": "Team Conf 2013 (Es wird live ein Projekt mit ATDD umgesetzt): #####",
-      "Link": "#####",
       "Type": "Vortrag",
-      "Medium": "",
+      "Medium": "Team Conf 2013",
       "Publisher": "",
       "PublisherUrl": null,
       "Id": 76
@@ -847,10 +815,8 @@
     {
       "Date": "27.11.2013",
       "Name": "Acceptance Test Driven Development mit Microsoft Tools in der Theorie",
-      "Description": "Team Conf 2013 (Vorteile von ATDD werden erläutert): #####",
-      "Link": "#####",
       "Type": "Vortrag",
-      "Medium": "",
+      "Medium": "Team Conf 2013",
       "Publisher": "",
       "PublisherUrl": null,
       "Id": 77
@@ -858,10 +824,8 @@
     {
       "Date": "18.10.2013",
       "Name": "TDD und ATDD mit Microsoft Tools",
-      "Description": "Developer Openspace in Leipzig: #####",
-      "Link": "#####",
       "Type": "Workshop",
-      "Medium": "",
+      "Medium": "Developer Openspace in Leipzig",
       "Publisher": "",
       "PublisherUrl": null,
       "Id": 78
@@ -869,10 +833,8 @@
     {
       "Date": "25.09.2013",
       "Name": "Test Driven Development mit Microsoft Tools",
-      "Description": "Basta: #####",
-      "Link": "#####",
       "Type": "Vortrag",
-      "Medium": "",
+      "Medium": "Basta",
       "Publisher": "",
       "PublisherUrl": null,
       "Id": 79
@@ -891,10 +853,8 @@
     {
       "Date": "11.09.2013",
       "Name": "Unterschiedliche Schulen des Test Driven Development",
-      "Description": "Clean Code Days: #####",
-      "Link": "#####",
       "Type": "Vortrag",
-      "Medium": "",
+      "Medium": "Clean Code Days",
       "Publisher": "",
       "PublisherUrl": null,
       "Id": 81
@@ -902,10 +862,8 @@
     {
       "Date": "11.09.2013",
       "Name": "Acceptance Test Driven Development mit C#",
-      "Description": "Clean Code Days: #####",
-      "Link": "#####",
       "Type": "Vortrag",
-      "Medium": "",
+      "Medium": "Clean Code Days",
       "Publisher": "",
       "PublisherUrl": null,
       "Id": 82
@@ -913,10 +871,8 @@
     {
       "Date": "10.09.2013",
       "Name": "Hintergründe und Herausforderungen von Test Driven Development",
-      "Description": "Clean Code Days: #####",
-      "Link": "#####",
       "Type": "Vortrag",
-      "Medium": "",
+      "Medium": "Clean Code Days",
       "Publisher": "",
       "PublisherUrl": null,
       "Id": 83
@@ -945,11 +901,9 @@
     },
     {
       "Date": "26.06.2013",
-      "Name": "MS Test",
-      "Description": "Developer Week: #####",
-      "Link": "#####",
+      "Name": "MS Test der missverstandene Stiefbruder",
       "Type": "Vortrag",
-      "Medium": "",
+      "Medium": "Developer Week",
       "Publisher": "",
       "PublisherUrl": null,
       "Id": 86
@@ -957,10 +911,8 @@
     {
       "Date": "25.06.2013",
       "Name": "Composite Application Development",
-      "Description": "Developer Week: #####",
-      "Link": "#####",
       "Type": "Vortrag",
-      "Medium": "",
+      "Medium": "Developer Week",
       "Publisher": "",
       "PublisherUrl": null,
       "Id": 87
@@ -968,8 +920,7 @@
     {
       "Date": "21.06.2013",
       "Name": "Composite Application Development",
-      "Description": "HTW Dresden: #####",
-      "Link": "#####",
+      "Description": "HTW Dresden",
       "Type": "Vortrag",
       "Medium": "",
       "Publisher": "",
@@ -1056,8 +1007,7 @@
     {
       "Date": "01.01.2013",
       "Name": "Windows Azure",
-      "Description": "Vortrag und Seminar an der HSZG",
-      "Link": "#####",
+      "Description": "Vortrag und Seminar an der Hochschule Zittau Görlitz",
       "Type": "Vortrag",
       "Medium": "",
       "Publisher": "",
@@ -1067,10 +1017,9 @@
     {
       "Date": "01.01.2013",
       "Name": "Testing with Visual Studio 2012",
-      "Description": "Developer Press: #####",
       "Link": "",
       "Type": "Buch",
-      "Medium": "",
+      "Medium": "Developer Press",
       "Publisher": "",
       "PublisherUrl": null,
       "Id": 97
