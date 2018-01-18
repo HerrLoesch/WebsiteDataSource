@@ -1265,6 +1265,17 @@
       "Publisher": "",
       "PublisherUrl": "https://www.dotnetpro.de/",
       "Id": 119
+    }	,
+    {
+      "Date": "07.02.2018",
+      "Name": "Advanced Refactoring Patterns",
+      "Description": "Refactoring gehört zum wichtigen Handwerkszeug eines jeden Entwicklers. Dabei wird der Code schrittweise transformiert um ihn besser verständlich und lesbar zu gestalten. In dieser Session beschäftigen wir uns mit unterschiedlichen Refactoring Patterns, basierend auf häufig auftretenden Fehlersituation. Zu diesen gehören die einfachen Grundlagen wie das extrahieren und Zusammenfassen von Funktionalität, insbesondere aber komplexe Szenarien wie beispielsweise das Aufbrechen von Vererbungshierarchien hin zu einer Objektkomposition, oder das Auflösen von statischen Klassen hin zu Dependency Injection. Dazu wird an einer bestehenden C# Anwendung zunächst auf ein Problemszenario eingegangen bevor es anschließend live refaktorisert wird.",
+      "Link": "http://www.oop-konferenz.de/oop2018/programm/freies-programm/sessiondetails.html?tx_dmconferences_sessionpaid%5Bsession%5D=61&tx_dmconferences_sessionpaid%5Btalk%5D=731&tx_dmconferences_sessionpaid%5Baction%5D=detail&tx_dmconferences_sessionpaid%5Bcontroller%5D=SessionPaid&cHash=0d03b2e230ea228f6d4eb891fcfd74eb",
+      "Type": "Vortrag",
+      "Medium": "OOP",
+      "Publisher": "SIGS DATACOM",
+      "PublisherUrl": "https://www.sigs-datacom.de/",
+      "Id": 120
     }
   ]
 }
