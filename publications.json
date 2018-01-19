@@ -395,7 +395,7 @@
       "Link": "http://www.dd-dotnet.de/treffen/2015/07/23/legacy-code-refaktorisieren.html",
       "Type": "Vortrag",
       "Medium": ".Net Usergroup Dresden",
-	  "Publisher": ".Net Usergroup Dresden",
+      "Publisher": ".Net Usergroup Dresden",
       "PublisherUrl": "www.dd-dotnet.de",
       "Id": 36
     },
@@ -563,7 +563,7 @@
       "Type": "Artikel",
       "Medium": "Windows Developer",
       "Publisher": "Entwickler.de",
-      "PublisherUrl": https://entwickler.de/windows-developer-magazin,
+      "PublisherUrl": "https://entwickler.de/windows-developer-magazin",
       "Id": 52
     },
     {
