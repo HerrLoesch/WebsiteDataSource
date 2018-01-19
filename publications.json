@@ -35,8 +35,8 @@
       "Description": "Lernen Sie in diesem Video-Training, wie man eine komplette funktionsfähige App mit Hilfe des Ionic-Frameworks bauen kann: Mit der Anwendung lassen sich Filme merken, die man besonders interessant findet. Auf dem Weg dahin erkennen Sie bald die wichtigsten Controls und erfahren, wie die einzelnen Konzepte hinter Ionic in einander greifen. Der Kurs behandelt Zugriffe auf ein REST Back-End, Pages, Providers und Komponenten, lässt auch die Architektur nicht außer Acht und beschäftigt sich insbesondere mit Navigationskonzepten. Auf diese Weise sollten Sie selbst sehr schnell mit einer eigenen App starten können, ohne über die gängigen Stolpersteine zu fallen.",
       "Link": "https://www.video2brain.com/de/videotraining/ionic-2-hybride-apps-entwickeln/inhalte",
       "Type": "Videotraining",
-      "Medium": "",
-      "Publisher": "Video2Brain",
+      "Medium": "Video2Brain",
+       "Publisher": "Video2Brain",
       "PublisherUrl": "https://www.video2brain.com",
       "Id": 3
     },
@@ -57,9 +57,9 @@
       "Description": "Schlechter Code ist oft schnell erkennbar, doch ist die Quaitätseinstufung meist sehr subjektiv. Was zeichnet eigentlich \"gute Software\" aus? Lernen Sie in diesem Video-Training verschiedene Methoden und Vorgehensweisen, grundlegende Prinzipien und praktische Werkzeuge kennen, mit deren Hilfe Sie die Qualität Ihrer Software dauerhaft sicherstellen können.",
       "Link": "https://www.video2brain.com/de/videotraining/grundlagen-der-programmierung-codemetriken",
       "Type": "Videotraining",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": "Video2Brain",
+       "Publisher": "Video2Brain",
+      "PublisherUrl": "https://www.video2brain.com",
       "Id": 5
     },
     {
@@ -101,9 +101,9 @@
       "Description": "SpecFlow ist eines der umfangreichsten BDD Frameworks im .Net Stack. In diesem Artikel wird die neueste Version sowie die Features der kostenpflichtigen Variante erläutert.",
       "Link": "http://www.dotnetpro.de/core/net/geschichten-1167445.html",
       "Type": "Artikel",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": "Dotnetpro",
+      "Publisher": "Neue Mediengesellschaft Ulm mbH",
+      "PublisherUrl": "http://www.nmg.de/",
       "Id": 9
     },
     {
@@ -112,9 +112,9 @@
       "Description": "LINQ steht für \"Language Integrated Query\" und beschreibt ein programmtechnisches Verfahren von Microsoft. Damit können Sie Abfragen direkt in C# und .NET erstellen, die sonst nur mit SQL möglich wären. Dieses Video-Training stellt alle wichtigen Methoden, Schlüsselworte in C# sowie die LINQ-Operationen ausführlich vor.",
       "Link": "https://www.video2brain.com/de/videotraining/linq-crashkurs",
       "Type": "Videotraining",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": "Video2Brain",
+       "Publisher": "Video2Brain",
+      "PublisherUrl": "https://www.video2brain.com",
       "Id": 10
     },
     {
@@ -123,9 +123,9 @@
       "Description": "In automatisierten Tests wird meist nur die Funktionalität einer Software geprüft. Ihre Speicherauslastung und der generelle Ressourcenverbauch jedoch nicht. Mit dotMemory kann man dies ändern indem man die übliche Testinfrastruktur durch zusätzliche Analysen des Speichers erweitern kann.",
       "Link": "http://www.dotnetpro.de/tools/code/speicherleck-spur-1167327.html",
       "Type": "Artikel",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": "Dotnetpro",
+      "Publisher": "Neue Mediengesellschaft Ulm mbH",
+      "PublisherUrl": "http://www.nmg.de/",
       "Id": 11
     },
     {
@@ -178,9 +178,9 @@
       "Description": "Eine verständliche Dokumentation zu schreiben ist eine Kunst für sich. Handelt es sich um die Dokumentation einer API ist es aber auch ein absolute Notwendigkeit, damit jene genutzt werden kann. Readme.io bietet hier einen Ansatzpunkt in dem es Dienste bietet mit denen die Nutzer der Dokumentation zu deren Verbesserung beitragen können.",
       "Link": "http://www.dotnetpro.de/update/dokumentation/lies-1134325.html",
       "Type": "Artikel",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+       "Medium": "Dotnetpro",
+      "Publisher": "Neue Mediengesellschaft Ulm mbH",
+      "PublisherUrl": "http://www.nmg.de/",
       "Id": 16
     },
     {
@@ -189,9 +189,9 @@
       "Description": "Ob für Dummy Uis oder automatisierte Tests, Testdaten werden häufig gebraucht. Es macht also Sinn sich diese automatisch erzeugen zu lassen. Mit ObjectFiller.NET kann man dies sogar für sehr komplexe Strukturen einfach und verständlich realisieren.",
       "Link": "http://www.dotnetpro.de/tools/tools/es-daten-1125801.html",
       "Type": "Artikel",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": "Dotnetpro",
+      "Publisher": "Neue Mediengesellschaft Ulm mbH",
+      "PublisherUrl": "http://www.nmg.de/",
       "Id": 17
     },
     {
@@ -200,9 +200,9 @@
       "Description": "Neben dem Platzhirsch Visual Studio Team Services gibt es auch noch andere cloudbasiete CI und CD Dienste. In diesem Artikel wird AppVeyor beschrieben welches vor allem für Opensource Projecte im .Net Stack sehr interessant sein dürfte.",
       "Link": "http://www.dotnetpro.de/update/tools/wolkige-builds-1125803.html",
       "Type": "Artikel",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": "Dotnetpro",
+      "Publisher": "Neue Mediengesellschaft Ulm mbH",
+      "PublisherUrl": "http://www.nmg.de/",
       "Id": 18
     },
     {
@@ -211,9 +211,9 @@
       "Description": "Dependency Injection, Service Locator, Inversion of Control, Dependency Inversion Principle, … Viele Begriffe die irgendwie das Gleiche zu sagen scheinen und sich dann doch wieder unterscheiden. Sicher ist nur, dass es sich um lose Kopplung handelt. Dass wir dank dieser ominösen Begriffe wartbare Software erstellen können, die leichter zu erweitern ist und sich darüber hinaus auch noch gut testen lässt.\nDer Vortrag greift die zuvor genannten Begriffe auf und erläutert ihre Zusammenhänge. Dabei ist das Ziel mit altbekannten Vorurteilen aufzuräumen und bei der Entscheidung zu helfen wo Softwarebestandteile wirklich entkoppelt werden sollten und welche Antipatterns sich beim Praxiseinsatz ergeben können. Dabei sehen wir diverse Beispiele des Einsatzes der SOLID Prinzipien und warum Dependency Injection allein eben nicht zu besserer Software führt.",
       "Link": "https://www.devday.de/2016/",
       "Type": "Vortrag",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": "Dotnetpro",
+      "Publisher": "Neue Mediengesellschaft Ulm mbH",
+      "PublisherUrl": "http://www.nmg.de/",
       "Id": 19
     },
     {
@@ -222,9 +222,9 @@
       "Description": "Eines der umfangreichsten MVVM Frameworks für WPF feiert seinen 6. Release. In diesem Artikel werden die Neuerungen und Änderungen dieser Version beschrieben.",
       "Link": "http://www.dotnetpro.de/update/frameworks/quo-vadis-prism-1134575.html",
       "Type": "Artikel",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": "Dotnetpro",
+      "Publisher": "Neue Mediengesellschaft Ulm mbH",
+      "PublisherUrl": "http://www.nmg.de/",
       "Id": 20
     },
     {
@@ -233,9 +233,9 @@
       "Description": "Mobile Tech Con: Ein Vortrag über das Vorgehen bei der Entwicklung von Hybrie Apps auf Basis von Cordova am Beispiel der Welcome App.\n",
       "Link": "https://mobiletechcon.de/session/welcome-app-concept-der-lange-weg-gutes-zu-tun/",
       "Type": "Vortrag",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+       "Medium": "Dotnetpro",
+      "Publisher": "Neue Mediengesellschaft Ulm mbH",
+      "PublisherUrl": "http://www.nmg.de/",
       "Id": 21
     },
     {
@@ -244,9 +244,9 @@
       "Description": "Das Tool Wallaby.js macht in JavaScript dann auf Fehler aufmerksam, wenn sie entstehen. Dazu läuft es konstant im Editor und zeigt kontinuierlich die aktuelle Testabdeckung. Kommt es zu einem Fehler wird dieser also im Editor hervorgehoben und der Entwickler kann sofort reagieren.",
       "Link": "http://www.dotnetpro.de/tools/tools/fehlersensor-tastendruck-1134301.html",
       "Type": "Artikel",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": "Dotnetpro",
+      "Publisher": "Neue Mediengesellschaft Ulm mbH",
+      "PublisherUrl": "http://www.nmg.de/",
       "Id": 22
     },
     {
@@ -255,9 +255,9 @@
       "Description": "TDD vs. BDD erklärt anhand von Frameworkvergleichen - Unit-Tests passen leider nicht auf jeden Anwendungsfall. SpecsFor verbessert dies in dem es Ideen aus dem Behavior Driven Development mit dem Unittesting Framework NUnit verbindet.",
       "Link": "http://www.dotnetpro.de/update/testing/verhalten-statt-funktion-1134513.html",
       "Type": "Artikel",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": "Dotnetpro",
+      "Publisher": "Neue Mediengesellschaft Ulm mbH",
+      "PublisherUrl": "http://www.nmg.de/",
       "Id": 23
     },
     {
@@ -277,9 +277,9 @@
       "Description": "SAP Mobile SDK bei Windows Apps einsetzen - Eine Anbindung an SAP-Systeme ist für viele Geschäftsanwendungen essenziell. Mit einer kostenlosen Plattform kann diese sogar in mobilen Applikationen geschehen.",
       "Link": "http://www.dotnetpro.de/update/mobile/firma-in-westentasche-1133767.html",
       "Type": "Artikel",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+       "Medium": "Dotnetpro",
+      "Publisher": "Neue Mediengesellschaft Ulm mbH",
+      "PublisherUrl": "http://www.nmg.de/",
       "Id": 25
     },
     {
@@ -298,9 +298,9 @@
       "Description": "Der ReSharper ist eine Erweiterung der Firma Jetbrains für Visual Studio. Lernen Sie in diesem Video-Training, wie Sie damit Ihren Code und Ihren Programmierstil verbessern können, indem Sie auf einfache Weise Abhängigkeiten im Programmcode aufdecken und die Struktur ihrer Anwendung auf mögliche Problemstellen untersuchen können. Sehen Sie auch, wie Sie zielgerichtetes Refactoring durchführen oder in ihrem Team einheitliche Coding-Guidelines einführen und überprüfen. Auch der Einsatz bei automatisierten Tests wie zum Beispiel für Memory- und Performance-Profiling wird ausführlich erläutert.",
       "Link": "https://www.video2brain.com/de/videotraining/resharper-crashkurs",
       "Type": "Videotraining",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": "Video2Brain",
+       "Publisher": "Video2Brain",
+      "PublisherUrl": "https://www.video2brain.com",
       "Id": 27
     },
     {
@@ -459,9 +459,9 @@
       "Description": "MVVM (Model View ViewModel) zählt zu den wichtigsten modernen Entwurfsmustern und wird sehr häufig in Projekten genutzt, die die Windows Presentation Foundation (WPF) verwenden. Dieses Video-Training führt in die Architektur und die grundlegenden Technologien solcher Projekte ein und erläutert die praktische Umsetzung mit Hilfe des von Microsoft stammenden Prism-Frameworks. Sie lernen IoC (Inversion of Control), Bootstrapping, Module Handling und vieles andere zielgerichtet einzusetzen und erhalten jede Menge Anregungen für den Aufbau eigener Anwendungen.",
       "Link": "https://www.video2brain.com/de/videotraining/wpf-anwendungen-mit-mvvm-und-prism",
       "Type": "Videotraining",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": "Video2Brain",
+       "Publisher": "Video2Brain",
+      "PublisherUrl": "https://www.video2brain.com",
       "Id": 42
     },
     {
@@ -513,9 +513,9 @@
       "Description": "Mit Universal Apps ist es sehr einfach möglich, Anwendungen für Desktop, Tablets und auch für Windows Phone zu entwickeln. Aufgrund dieser Vielfalt ergeben sich jedoch neue Herausforderungen beim automatisierten Testen. Das Training zeigt zunächst alle verfügbaren Funktionen der Testautomatisierung und anschließend, wie jene im Rahmen von Universal Apps eingesetzt werden",
       "Link": "https://mva.microsoft.com/de-de/training-courses/universal-apps-automatisch-testen-10352?l=3mPonwq6_6004984382",
       "Type": "Videotraining",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": "Microsoft Virtual Academy",
+       "Publisher": "Microsoft",
+      "PublisherUrl": "https://mva.microsoft.com/de-de/training-courses/universal-apps-automatisch-testen-10352",
       "Id": 47
     },
     {
@@ -552,9 +552,9 @@
       "Description": "MVVM zählt als eines der wichtigsten Entwurfsmuster bei der Erstellung von XAML- basierenden Apps und Applikationen. In diesem Video-Training sehen Sie, wie das Prism-Framework von Microsoft Sie dabei unterstützt, Windows 8 Store Apps auf Basis von MVVM zu strukturieren und wo es darüber hinaus die Programmierung vereinfacht.",
       "Link": "https://www.video2brain.com/de/videotraining/windows-8-store-apps-mit-mvvm-und-prism",
       "Type": "Videotraining",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": "Video2Brain",
+       "Publisher": "Video2Brain",
+      "PublisherUrl": "https://www.video2brain.com",
       "Id": 51
     },
     {
@@ -562,8 +562,8 @@
       "Name": "Abhängigkeiten aufgedröselt - Code Analyse mit und Qualitätsmetriken von Ndepend",
       "Type": "Artikel",
       "Medium": "Windows Developer",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Publisher": "Entwickler.de",
+      "PublisherUrl": https://entwickler.de/windows-developer-magazin,
       "Id": 52
     },
     {
@@ -654,9 +654,9 @@
       "Description": "Vergleich von kostenpflichtigen und kostenlosen Test Isolation (Mocking) Frameworks - Es gibt jede Menge kostenloser Testisolation-Frameworks. Warum sollte man dann ein kostenpflichtiges verwenden? Wie unterscheiden sich diese Frameworks voneinander?",
       "Link": "http://www.dotnetpro.de/update/frameworks/testdoubles-preisschild-1126880.html",
       "Type": "Artikel",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": "Dotnetpro",
+      "Publisher": "Neue Mediengesellschaft Ulm mbH",
+      "PublisherUrl": "http://www.nmg.de/",
       "Id": 61
     },
     {
@@ -676,9 +676,9 @@
       "Description": "Neuerung in Microsofts IoC Container Unity 3 - Der IoC-Container Unity von Microsoft steht auch für Windows-8-Anwendungen bereit. Einige Funktionen fehlen dabei, anderes ist neu hinzugekommen.",
       "Link": "http://www.dotnetpro.de/core/ioc-di-mvvm/einheit-nummer-3-1126367.html",
       "Type": "Artikel",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": "Dotnetpro",
+      "Publisher": "Neue Mediengesellschaft Ulm mbH",
+      "PublisherUrl": "http://www.nmg.de/",
       "Id": 63
     },
     {
@@ -776,9 +776,9 @@
       "Description": "In diesem Video-Training schauen Sie dem Software-Entwickler über die Schulter und erleben, wie mit dem sogenannten Outside-In-TDD Real-Live-Anwendungen entstehen können. Anhand eines Kiosksystems sehen Sie, wie Sie mit häufig auftretenden Problemstellungen umgehen und welche Werkzeuge und Frameworks Ihnen bei der testgetriebenen Entwicklung in .NET-Projekten helfen können.",
       "Link": "https://www.video2brain.com/de/videotraining/test-driven-development-praxisworkshop",
       "Type": "Videotraining",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": "Video2Brain",
+       "Publisher": "Video2Brain",
+      "PublisherUrl": "https://www.video2brain.com",
       "Id": 73
     },
     {
@@ -797,9 +797,9 @@
       "Description": "Inversion of Control (IoC) ist eines der wichtigsten Konzepte bei der Erstellung lose gekoppelter Architektur. Dieses Video-Training zeigt Ihnen, wie IoC dabei hilft, Abhängigkeiten zwischen Softwarebestandteilen aufzulösen. Dabei geht es auch um so weit verbreitete Muster wie Dependency Injection sowie Service Locator und gängige Frameworks, die bei der Umsetzung unterstützen.",
       "Link": "https://www.video2brain.com/de/videotraining/inversion-of-control-und-dependency-injection",
       "Type": "Videotraining",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": "Video2Brain",
+       "Publisher": "Video2Brain",
+      "PublisherUrl": "https://www.video2brain.com",
       "Id": 75
     },
     {
@@ -844,9 +844,9 @@
       "Description": "Bei der Testgetriebenen Softwareentwicklung handelt es sich um ein agiles Programmierkonzept, welches sowohl die Erstellung von Produktivcode als auch die dazugehörigen automatisierten Tests beinhaltet. Dieses Video-Training vermittelt den theoretischen Unterbau und macht Sie mit unterschiedlichen Frameworks für die notwendigen Tests auf allen Testebenen vertraut.",
       "Link": "https://www.video2brain.com/de/videotraining/test-driven-development-mit-c",
       "Type": "Videotraining",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": "Video2Brain",
+       "Publisher": "Video2Brain",
+      "PublisherUrl": "https://www.video2brain.com",
       "Id": 80
     },
     {
@@ -882,9 +882,9 @@
       "Description": "Vergleich der aktuell am häufigsten verwendeten Testing Frameworks (MS Test, NUnit und XUnit.Net) in der .Net-Welt - Unit-Test-Frameworks scheinen doch irgendwie alle gleich zu sein. Doch kann die Wahl des Frameworks maßgeblich bestimmen, auf welche Art die Tests verfasst werden können oder müssen.",
       "Link": "http://www.dotnetpro.de/update/testing/test-test-1126385.html",
       "Type": "Artikel",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": "Dotnetpro",
+      "Publisher": "Neue Mediengesellschaft Ulm mbH",
+      "PublisherUrl": "http://www.nmg.de/",
       "Id": 84
     },
     {
@@ -893,9 +893,9 @@
       "Description": "Beschreibung des Frameworks AutoFixture und wie man mit diesem die Arrange Phase vereinfachen kann - Beim Testen muss ein Objekt in einen bestimmten Zustand versetzt werden. Damit dabei die Übersichtlichkeit nicht leidet oder das Ergebnis verzerrt, hilft ein Framework wie AutoFixture.",
       "Link": "http://www.dotnetpro.de/articles/onlinearticle4576.aspx",
       "Type": "Artikel",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": "Dotnetpro",
+      "Publisher": "Neue Mediengesellschaft Ulm mbH",
+      "PublisherUrl": "http://www.nmg.de/",
       "Id": 85
     },
     {
@@ -987,9 +987,9 @@
       "Description": "Softwaretests gehören zum täglich Brot vieler Software-Entwickler. In diesem Video-Training geht es vorrangig um die Möglichkeiten, die die Microsoft-IDE Visual Studio hierzu bietet, doch auch theoretische Grundlagen zu Softwaretests allgemein kommen nicht zu kurz.",
       "Link": "https://www.video2brain.com/de/videotraining/automatisiertes-testen-mit-visual-studio",
       "Type": "Videotraining",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": "Video2Brain",
+       "Publisher": "Video2Brain",
+      "PublisherUrl": "https://www.video2brain.com",
       "Id": 94
     },
     {
@@ -1029,9 +1029,9 @@
       "Description": "Vergleich unterschiedlicher Frameworks zum Testen von Benutzeroberflächen - Die Automatisierung von Systemtests gewinnt zunehmend an Bedeutung. Welche freien Frameworks .NET-Entwicklern zur Verfügung stehen und wie sie sich gegen die von Microsoft angebotene Funktionalität behaupten, lesen Sie hier.",
       "Link": "http://www.dotnetpro.de/articles/onlinearticle4285.aspx",
       "Type": "Artikel",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": "Dotnetpro",
+      "Publisher": "Neue Mediengesellschaft Ulm mbH",
+      "PublisherUrl": "http://www.nmg.de/",
       "Id": 98
     },
     {
@@ -1040,9 +1040,9 @@
       "Description": "Beschreibung wie Coded UI Tests genutzt werden um Benutzeroberflächen zu prüfen - In Zeiten von testgetriebener Entwicklung und agilem Vorgehen wird MS Test häufig eingesetzt, um Komponenten und ihre fehlerfreie Interaktion untereinander abzusichern. Dabei kann es noch einiges mehr ...",
       "Link": "http://www.dotnetpro.de/articles/onlinearticle4130.aspx",
       "Type": "Artikel",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": "Dotnetpro",
+      "Publisher": "Neue Mediengesellschaft Ulm mbH",
+      "PublisherUrl": "http://www.nmg.de/",
       "Id": 99
     },
     {
@@ -1073,9 +1073,9 @@
       "Description": "Erläuterung des Konzepts der „User Story“ zur Verwaltung von Anforderungen - Lassen Sie Ihren Kunden erzählen. So finden Sie die Hauptpersonen und die zentralen Handlungen. Das alles strukturieren Sie im Backlog mithilfe von Story-Maps. Burn-down-Charts protokollieren den Stand der Arbeit.",
       "Link": "http://www.dotnetpro.de/articles/onlinearticle4062.aspx",
       "Type": "Artikel",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": "Dotnetpro",
+      "Publisher": "Neue Mediengesellschaft Ulm mbH",
+      "PublisherUrl": "http://www.nmg.de/",
       "Id": 102
     },
     {
@@ -1084,9 +1084,9 @@
       "Description": "Acceptance Test Driven Development mit Specflow - Kundenwünsche in einer formalen Sprache ausdrücken und daraus Akzeptanztests ableiten: Das gelingt mit Behavior- Driven Development, der Sprache Gherkin und dem .NET-Tool Specflow.",
       "Link": "http://www.dotnetpro.de/articles/onlinearticle4009.aspx",
       "Type": "Artikel",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": "Dotnetpro",
+      "Publisher": "Neue Mediengesellschaft Ulm mbH",
+      "PublisherUrl": "http://www.nmg.de/",
       "Id": 103
     },
     {
@@ -1150,9 +1150,9 @@
       "Description": "Mit .NET 4.0 fand viel Neues Einzug ins Entwicklerleben. Manches ist umstritten, anderes hat Microsoft schmerzlich vernachlässigt. Die Chart Controls gehören eindeutig zur letzten Gruppe, obwohl sie eine schon lange offene Lücke des Frameworks schließen: das Zeichnen von Diagrammen.",
       "Link": "http://www.dotnetpro.de/articles/onlinearticle3709.aspx",
       "Type": "Artikel",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": "Dotnetpro",
+      "Publisher": "Neue Mediengesellschaft Ulm mbH",
+      "PublisherUrl": "http://www.nmg.de/",
       "Id": 109
     },
     {
@@ -1261,7 +1261,7 @@
       "Link": "https://www.dotnetpro.de/planung/alm/zahn-gefuehlt-1431072.html",
       "Type": "Artikel",
       "Medium": "Dotnet Pro",
-      "Publisher": "",
+      "Publisher": "Dotnet Pro",
       "PublisherUrl": "https://www.dotnetpro.de/",
       "Id": 119
     },
