@@ -309,9 +309,9 @@
       "Description": "Einführung in die testgetriebene Entwicklung mit anschließendem Kata",
       "Link": "http://www.dd-dotnet.de/treffen/2015/11/11/Coding-Dojo.html",
       "Type": "Vortrag",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": ".Net Usergroup Dresden",
+	  "Publisher": ".Net Usergroup Dresden",
+      "PublisherUrl": "www.dd-dotnet.de",
       "Id": 28
     },
     {
@@ -394,9 +394,9 @@
       "Description": "Häufig hört man: „Clean Code ist wichtig“ und „TDD ist das Maß der Dinge“. Es stellt sich nur die Frage, wie man jene Prinzipien in bestehenden Code einfügen kann. Wie findet man die Stellen, an denen eine Refaktorisierung sinnvoll wäre und wie werden diese Änderungen vorgenommen, ohne die Stabilität der Software zu gefährden.",
       "Link": "http://www.dd-dotnet.de/treffen/2015/07/23/legacy-code-refaktorisieren.html",
       "Type": "Vortrag",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": ".Net Usergroup Dresden",
+	  "Publisher": ".Net Usergroup Dresden",
+      "PublisherUrl": "www.dd-dotnet.de",
       "Id": 36
     },
     {
@@ -665,9 +665,9 @@
       "Description": "Clean Code ist wichtig, darin sind wir uns einig. Doch wie stellt man sicher, dass der Code sauber wird und auch sauber bleibt? Vor allem, was heißt eigentlich Sauberkeit und woran genau misst sie sich? Hendrik Lösch erklärt in seinem Vortrag verschiedene Qualitätsmetriken und wie diese mit Visual Studio geprüft werden können. Zu den betrachteten Metriken und Begriffe zählen zum Beispiel Klassikern wie Code Coverage und Lines of Code, aber auch die zyklomatische Komplexität und technische Schuld. Darüber hinaus wird der generelle Umgang mit Coding Conventions betrachtet und welche Herausforderungen sich ergeben wenn man sie in einem Unternehmen einführen möchte.",
       "Link": "http://www.dd-dotnet.de/treffen/2014/08/28/Sauberer-Code-Dank-Visual-Studio-2013.html",
       "Type": "Vortrag",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": ".Net Usergroup Dresden",
+	  "Publisher": ".Net Usergroup Dresden",
+      "PublisherUrl": "www.dd-dotnet.de",
       "Id": 62
     },
     {
@@ -965,9 +965,9 @@
       "Description": "Einführung in die Welt des Testens mit Visual Studio 2012 und dem Test Manager 2012 . Dabei werden zunächst die wichtigsten Unterschiede zu Version 2010 hervorgehoben bevor sich anschließend vor allem den Coded UI Tests und dem Explorativen Testen zugewendet wird.",
       "Link": "http://www.dd-dotnet.de/treffen/2013/04/18/Einladung-zum-Treffen-der-NET-Usergroup-am-18042013.html",
       "Type": "Vortrag",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": ".Net Usergroup Dresden",
+	  "Publisher": ".Net Usergroup Dresden",
+      "PublisherUrl": "www.dd-dotnet.de",
       "Id": 92
     },
     {
@@ -1062,9 +1062,9 @@
       "Description": "Eines der wohl unbeliebtesten Testframeworks stammt von Microsoft und das obwohl es zu den umfangreichsten gehört. Ziel der Session ist es, dieser weitläufigen Einschätzung auf den Grund zu gehen, indem MS Test in Verbindung mit Moles und Pex bekannten Gegenparts wie NUnit und Moq gegenüber gestellt und anhand fortgeschrittener Praktiken verglichen wird. Dabei wird darauf eingegangen wie Testdaten bereit gestellt, Testfälle isoliert ausgeführt und datengetriebene Tests realisiert werden können.",
       "Link": "http://www.dd-dotnet.de/treffen/2012/04/26/Einladung-zum-Treffen-der-NET-Usergroup-am-26042012.html",
       "Type": "Vortrag",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": ".Net Usergroup Dresden",
+	  "Publisher": ".Net Usergroup Dresden",
+      "PublisherUrl": "www.dd-dotnet.de",
       "Id": 101
     },
     {
@@ -1128,9 +1128,9 @@
       "Description": "SpecFlow versucht, die Lücke zwischne Domain-Experten und Entwicklern zu schließen. Dazu bietet es einen Editor, in dem man seine Anforderungen an die Domain recht normalsprachlich (Gherkin-Format) in feature-Dateien herunterschreiben kann. Aus diesen werden dann Testschritte generiert, die in Unittests automatisiert getestet werden können.",
       "Link": "http://www.dd-dotnet.de/treffen/2011/07/14/Einladung-zum-Treffen-der-NET-Usergroup-Dresden-am-14072011.html",
       "Type": "Vortrag",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": ".Net Usergroup Dresden",
+	  "Publisher": ".Net Usergroup Dresden",
+      "PublisherUrl": "www.dd-dotnet.de",,
       "Id": 107
     },
     {
@@ -1172,9 +1172,9 @@
       "Description": "An diesem Abend wird Hendrik Lösch zunächst noch einmal kurz die Grundlagen erklären bevor er ausgiebig erläutert wie das Framework Moq beim Schreiben der Tests hilft. Dabei geht er insbesondere darauf ein wie Abhängigkeiten für die Tests aufgebrochen, Methodenverhalten emuliert und –aufrufe validiert werden können.Anschließend folgt eine Diskussion aller Beteiligten zum Thema, bei dem auf die Unterschiede zu anderen Isolation Frameworks eingegangen und / oder über das Vorgehen bei typischen Testfällen gesprochen werden kann. Insbesondere letzteres dürfte daher für jeden interessant sein, der bisher Probleme beim Einsatz von Unit-Tests hatte oder das Thema bisher gänzlich gescheut hat.",
       "Link": "http://www.dd-dotnet.de/treffen/2011/02/17/NET-User-Group-Dresden-Treffen-am-1702.html",
       "Type": "Vortrag",
-      "Medium": "",
-      "Publisher": "",
-      "PublisherUrl": null,
+      "Medium": ".Net Usergroup Dresden",
+	  "Publisher": ".Net Usergroup Dresden",
+      "PublisherUrl": "www.dd-dotnet.de",
       "Id": 111
     },
     {
