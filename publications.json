@@ -1286,6 +1286,38 @@
 	  "Publisher": ".Net Usergroup Dresden",
       "PublisherUrl": "www.dd-dotnet.de",
       "Id": 121
+    },
+    {
+        "Date": "24.04.2018",
+        "Name": "Advanced Refactoring Patterns",
+        "Description": "Refactoring gehört zum wichtigen Handwerkszeug eines jeden Entwicklers. Dabei wird der Code schrittweise transformiert um ihn besser verständlich und lesbar zu gestalten. In dieser Session beschäftigen wir uns mit unterschiedlichen Refactoring Patterns, basierend auf häufig auftretenden Fehlersituation. Zu diesen gehören die einfachen Grundlagen wie das extrahieren und Zusammenfassen von Funktionalität, insbesondere aber komplexe Szenarien wie beispielsweise das Aufbrechen von Vererbungshierarchien hin zu einer Objektkomposition, oder das Auflösen von statischen Klassen hin zu Dependency Injection. Dazu wird an einer bestehenden C# Anwendung zunächst auf ein Problemszenario eingegangen bevor es anschließend live refaktorisert wird.",
+        "Type": "Vortrag",
+        "Medium": "devday.18",
+        "Publisher": "Dev Day",
+        "PublisherUrl": "http://www.devday.de",
+        "Id": 122
+    },
+    {
+        "Date": "10.04.2018",
+        "Name": "Ich glaub es hat Schnupfen – Der Healthcheck für Softwareprojekte",
+        "Description": "Innerhalb eines Softwareprojektes geht es nicht vorrangig um Quellcode. Dieser ist meist eher das End- oder Zwischenprodukt verschiedenster externer Einflüsse. Zu solchen Einflüssen zählen natürlich die Anforderungen und die Zusammensetzung des Projektteams, aber beispielsweise auch der Zeitrahmen innerhalb dem eine Leistung zu rbringen ist, die fachliche Domäne, sowie das Alter des bestehenden Systems.Im Rahmen dieses Vortrags sollen die Herausforderungen bei der Bewertung von Softwaresystemen skizziert und ein Vorgehen erläutert werden, mit dem es möglich ist Risiken innerhalb der Code Basis, aber auch der Projektzusammensetzung zu erkennen. Denn nur wenn man konkrete Risiken kennt, kann man auch Maßnahmen einleiten um jenen effektiv zu begegnen.",
+        "Link": "https://www.md-devdays.de/Act?id=7",
+        "Type": "Vortrag",
+        "Medium": "Magdeburg Dev Day",
+        "Publisher": "MD Dev Day",
+        "PublisherUrl": "https://www.md-devdays.de/",
+        "Id": 123
+    },
+     {
+      "Date": "09.04.2018",
+      "Name": "Code Restrukturierung, mehr als nur Refactoring",
+        "Description": "In diesem Workshop betrachten wir zunächst die wichtigsten Grundlagen des Refactorings, zu denen sowohl das eigentliche Vorgehen, als auch Code Smells, Pattern und Antipattern zählen. Anschließend bewegen wir uns auf eine höhere Betrachtungsebene und lernen Code Metriken kennen mit denen wir den Zustand einer Software einschätzen können. Anschließend gehen wir auf die Evolution von Softwarestrukturen ein, besprechen Bewertungsverfahren und erläutern Muster mit denen das System neu strukturiert werden kann.",
+      "Link": "https://www.md-devdays.de/Act?id=8",
+      "Type": "Workshop",
+        "Medium": "Magdeburg Dev Day",
+        "Publisher": "MD Dev Day",
+        "PublisherUrl": "https://www.md-devdays.de/",
+        "Id": 123
     }
   ]
 }
